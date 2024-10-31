@@ -1,0 +1,106 @@
+body{
+    padding: 2px;
+    margin: 5px;
+}
+
+.navbar{
+    background-color: #2c8a72;
+    height: 170px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+.navbar h1{
+    background-color: white;
+    color: rgb(186, 138, 49);  
+    font-size: 2.3em;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+
+}
+
+.navbar li{
+    color: white;
+}
+
+.head{
+    color: rgb(186, 138, 49);
+    text-align: left;
+}
+
+.menu{
+    text-align: center;
+}
+
+.menu h3{
+    color: rgb(71, 71, 71); 
+}
+
+.menu p{
+    color: rgb(71, 71, 71); 
+}
+
+.menu .chicken{
+    height: 800px;
+    width: 936px;
+}
+
+.menu .noodle{
+    height: 280px;
+    width: 450px;
+}
+
+.beef{
+    text-align: center;
+}
+
+.beef h3{
+    color: rgb(71, 71, 71); 
+}
+
+.beef p{
+    color: rgb(71, 71, 71); 
+}
+
+.beef img{
+    height: 900px;
+    width: 1200px;
+}
+
+.fish{
+    text-align: center;
+}
+
+.fish h3{
+    color: rgb(71, 71, 71); 
+}
+
+.fish p{
+    color: rgb(71, 71, 71); 
+}
+
+.fish img{
+    height: 2500px;
+    width: 2500px;
+}
+
+.form h1{
+    color: rgb(186, 138, 49);
+}
+
+.form form input{
+    margin: 5px;
+}
+
+.form form .submit{
+    background-color:rgb(186, 138, 49);
+    color: white;
+    text-align: center;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
